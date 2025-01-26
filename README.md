@@ -62,19 +62,3 @@ Follow these steps to run the project locally:
 - **Real-Time Feedback**: Receive immediate feedback on your answers.
 - **User-Friendly Design**: Clean and modern UI for seamless interaction.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-## Acknowledgments
-
-Special thanks to:
-- **OpenAI** for the API powering lesson and quiz generation.
-- **Vite** for fast and efficient development tooling.
-- **React** for its component-based architecture.
-- Everyone who inspired and supported this project!
-
